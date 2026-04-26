@@ -1,0 +1,6 @@
+{
+  "statun_suhu": "celcius",
+  "batas_hari_demam": "3",
+  "pesan_diterima": "Demam terdeteksi, segera konsultasi!",
+  "pesan_ditolak": "Tidak ada gejala demam."
+}

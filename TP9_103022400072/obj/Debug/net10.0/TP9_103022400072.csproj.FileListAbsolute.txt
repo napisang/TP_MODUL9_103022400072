@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\bin\Debug\net10.0\TP9_103022400072.exe
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\bin\Debug\net10.0\TP9_103022400072.deps.json
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\bin\Debug\net10.0\TP9_103022400072.runtimeconfig.json
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\bin\Debug\net10.0\TP9_103022400072.dll
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\bin\Debug\net10.0\TP9_103022400072.pdb
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\obj\Debug\net10.0\TP9_103022400072.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\obj\Debug\net10.0\TP9_103022400072.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\obj\Debug\net10.0\TP9_103022400072.AssemblyInfo.cs
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\obj\Debug\net10.0\TP9_103022400072.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\obj\Debug\net10.0\TP9_103022400072.dll
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\obj\Debug\net10.0\refint\TP9_103022400072.dll
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\obj\Debug\net10.0\TP9_103022400072.pdb
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\obj\Debug\net10.0\TP9_103022400072.genruntimeconfig.cache
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\obj\Debug\net10.0\ref\TP9_103022400072.dll
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\obj\Debug\net10.0\TP9_103022400072.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\TP9_103022400072\TP9_103022400072\obj\Debug\net10.0\TP9_1030.5C4AB0A3.Up2Date
